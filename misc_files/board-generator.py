@@ -8,7 +8,6 @@ class BoardGenerator(object):
     
     def checkLegal():
 
-
     def create():
         grid = []
         for i in range(0,self.size):
